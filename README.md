@@ -16,15 +16,21 @@ you need to run this program using GPU
 
 ## Data Preparation
 
-- ./data
+### /data
 
-train(valid/test).scv
+- train(valid/test).scv
 
- - format: UserID|TopID|PositiveBottomID|NegativeBottomID
+format: UserID|TopID|PositiveBottomID|NegativeBottomID
  
-- ./feat
+### /feat
 
+- smallnwjc2vec
 
+- textfeatures
+
+- visualfeatures
+
+Can be download from [there](https://drive.google.com/file/d/1ILz1P4BiyQ0rTwOJD-vqs2J4cF77alUM/view)
 
 ## Running command
 
