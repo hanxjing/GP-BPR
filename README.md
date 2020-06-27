@@ -32,6 +32,12 @@ format: UserID|TopID|PositiveBottomID|NegativeBottomID
 
 Can be download from [there](https://drive.google.com/file/d/1ILz1P4BiyQ0rTwOJD-vqs2J4cF77alUM/view).
 
+### Meta data
+
+format: user/outfit/item
+
+Can be download from [there](https://drive.google.com/open?id=1sTfUoNPid9zG_MgV--lWZTBP1XZpmcK8).
+
 ## Running command
 
 CUDA_VISIBLE_DEVICE=0 python main.py
