@@ -15,6 +15,9 @@ or
 you need to run this program using GPU
 
 ## Data Preparation
+-./data
+train(valid/test).scv
+ -format: UserID|TopID|PositiveBottomID|NegativeBottomID
 
 
 
