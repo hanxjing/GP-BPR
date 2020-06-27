@@ -1,6 +1,6 @@
 # GP-BPR-Personalized-Compatibility-Modeling-for-Clothing-Matching
 
-Code for paper [GP-BPR: Personalized Compatibility Modeling for Clothing Matching](..)
+Code for paper [GP-BPR: Personalized Compatibility Modeling for Clothing Matching](https://dl.acm.org/doi/abs/10.1145/3343031.3350956)
 
 ## Dependencies
 
