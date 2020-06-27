@@ -1,6 +1,6 @@
 # GP-BPR-Personalized-Compatibility-Modeling-for-Clothing-Matching
 
-Code for paper [GP-BPR: Personalized Compatibility Modeling for Clothing Matching](https://dl.acm.org/doi/abs/10.1145/3343031.3350956)
+Code for paper [GP-BPR: Personalized Compatibility Modeling for Clothing Matching](https://dl.acm.org/doi/abs/10.1145/3343031.3350956).
 
 ## Dependencies
 
@@ -30,7 +30,7 @@ format: UserID|TopID|PositiveBottomID|NegativeBottomID
 
 - visualfeatures
 
-Can be download from [there](https://drive.google.com/file/d/1ILz1P4BiyQ0rTwOJD-vqs2J4cF77alUM/view)
+Can be download from [there](https://drive.google.com/file/d/1ILz1P4BiyQ0rTwOJD-vqs2J4cF77alUM/view).
 
 ## Running command
 
