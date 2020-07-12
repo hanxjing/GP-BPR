@@ -1,4 +1,4 @@
-# GP-BPR-Personalized-Compatibility-Modeling-for-Clothing-Matching
+# GP-BPR: Personalized Compatibility Modeling for Clothing Matching
 
 Code for paper [GP-BPR: Personalized Compatibility Modeling for Clothing Matching](https://dl.acm.org/doi/abs/10.1145/3343031.3350956).
 
@@ -41,3 +41,13 @@ Can be download from [there](https://drive.google.com/open?id=1sTfUoNPid9zG_MgV-
 ## Running command
 
 CUDA_VISIBLE_DEVICE=0 python main.py
+
+## Citations
+
+@inproceedings{song2019gp,
+  title={GP-BPR: Personalized Compatibility Modeling for Clothing Matching},
+  author={Song, Xuemeng and Han, Xianjing and Li, Yunkai and Chen, Jingyuan and Xu, Xin-Shun and Nie, Liqiang},
+  booktitle={Proceedings of the 27th ACM International Conference on Multimedia},
+  pages={320--328},
+  year={2019}
+}
