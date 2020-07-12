@@ -43,7 +43,7 @@ Can be download from [there](https://drive.google.com/open?id=1sTfUoNPid9zG_MgV-
 CUDA_VISIBLE_DEVICE=0 python main.py
 
 ## Citations
-
+'''
 @inproceedings{song2019gp,
   title={GP-BPR: Personalized Compatibility Modeling for Clothing Matching},
   author={Song, Xuemeng and Han, Xianjing and Li, Yunkai and Chen, Jingyuan and Xu, Xin-Shun and Nie, Liqiang},
@@ -51,3 +51,4 @@ CUDA_VISIBLE_DEVICE=0 python main.py
   pages={320--328},
   year={2019}
 }
+'''
