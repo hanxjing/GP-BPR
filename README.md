@@ -43,6 +43,7 @@ Can be download from [there](https://drive.google.com/open?id=1sTfUoNPid9zG_MgV-
 CUDA_VISIBLE_DEVICE=0 python main.py
 
 ## Citations
+
 '''
 @inproceedings{song2019gp,
   title={GP-BPR: Personalized Compatibility Modeling for Clothing Matching},
