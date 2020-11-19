@@ -1,6 +1,6 @@
-# Prototype-guided Attribute-wise Interpretable Scheme for Clothing Matching
+# GP-BPR: Personalized Compatibility Modeling for Clothing Matching
 
-Code for paper [Prototype-guided Attribute-wise Interpretable Scheme for Clothing Matching](https://dl.acm.org/doi/abs/10.1145/3343031.3350956).
+Code for paper [GP-BPR: Personalized Compatibility Modeling for Clothing Matching](https://dl.acm.org/doi/abs/10.1145/3343031.3350956).
 
 ## Dependencies
 
