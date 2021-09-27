@@ -21,11 +21,11 @@ from sys import argv
 """
 
 my_config = {
-    "visual_features_dict": "visualfeatures",
-    "textural_idx_dict": "textfeatures",
-    "textural_embedding_matrix": "smallnwjc2vec",
+    "visual_features_dict": "./feat/visualfeatures",
+    "textural_idx_dict": "./feat/textfeatures",
+    "textural_embedding_matrix": "./feat/smallnwjc2vec",
     "train_data": r"./data/train.csv",
-    "valid_data": r"./data/dev.csv",
+    "valid_data": r"./data/valid.csv",
     "test_data": r"./data/test.csv",
     "model_file": r"./model/GPBPR.model",
 }
